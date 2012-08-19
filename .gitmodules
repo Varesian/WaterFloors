@@ -4,3 +4,6 @@
 [submodule "Assets/Scripts/UnityKinectScripts"]
 	path = Assets/Scripts/UnityKinectScripts
 	url = git://github.com/Varesian/UnityKinectScripts
+[submodule "Assets/Scripts/UnityMeshScripts"]
+	path = Assets/Scripts/UnityMeshScripts
+	url = git://github.com/Varesian/UnityMeshScripts
