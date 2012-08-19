@@ -48,6 +48,7 @@
      <Compile Include="Assets\Scripts\UnityKinectScripts\ZigfuDepthmapToMeshWithCopyAndBounds.cs" />
      <Compile Include="Assets\Scripts\UnityMeshScripts\MeshBlur.cs" />
      <Compile Include="Assets\Scripts\UnityMeshScripts\MeshLerp.cs" />
+     <Compile Include="Assets\Scripts\UnityUtils\ApplyRandomForce.cs" />
      <Compile Include="Assets\Scripts\UnityUtils\ArrayMaker.cs" />
      <Compile Include="Assets\Scripts\UnityUtils\OnCollisionColorChange.cs" />
      <Compile Include="Assets\ZigFu\SampleScenes\_Data\Scripts\ExitOnEscape.cs" />
