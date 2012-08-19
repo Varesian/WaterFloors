@@ -5,6 +5,8 @@ Project("{3637B840-0EE2-EF8D-F4C0-84A883F638EF}") = "WaterFloors", "Assembly-CSh
 EndProject
 Project("{3637B840-0EE2-EF8D-F4C0-84A883F638EF}") = "WaterFloors", "Assembly-CSharp-vs.csproj", "{89AED1AA-C805-33B5-D4CB-0758BD6D7E34}"
 EndProject
+Project("{3637B840-0EE2-EF8D-F4C0-84A883F638EF}") = "WaterFloors", "Assembly-CSharp-Editor-firstpass-vs.csproj", "{6F704A5C-6581-3FA6-EFE9-616227FE95A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +21,15 @@ Global
 		{89AED1AA-C805-33B5-D4CB-0758BD6D7E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89AED1AA-C805-33B5-D4CB-0758BD6D7E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89AED1AA-C805-33B5-D4CB-0758BD6D7E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F704A5C-6581-3FA6-EFE9-616227FE95A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F704A5C-6581-3FA6-EFE9-616227FE95A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F704A5C-6581-3FA6-EFE9-616227FE95A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F704A5C-6581-3FA6-EFE9-616227FE95A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-												GlobalSection(MonoDevelopProperties) = preSolution
+													GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
