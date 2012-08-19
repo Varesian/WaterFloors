@@ -1,3 +1,6 @@
 [submodule "Assets/Scripts/UnityUtils"]
 	path = Assets/Scripts/UnityUtils
 	url = git://github.com/Varesian/UnityUtils
+[submodule "Assets/Scripts/UnityKinectScripts"]
+	path = Assets/Scripts/UnityKinectScripts
+	url = git://github.com/Varesian/UnityKinectScripts
