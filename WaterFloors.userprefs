@@ -4,7 +4,7 @@
     <Files>
       <File FileName="Assets\Scripts\UnityKinectScripts\KinectMesh.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\UnityUtils\ArrayMaker.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\UnityUtils\OnCollisionColorChange.cs" Line="39" Column="2" />
+      <File FileName="Assets\Scripts\UnityUtils\OnCollisionColorChange.cs" Line="50" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
